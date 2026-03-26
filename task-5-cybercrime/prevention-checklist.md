@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Device & Network Security
+###  Device & Network Security
 
 - [ ] **Never do banking or UPI transactions on public Wi-Fi.** Hostel common room networks, café Wi-Fi, and open college networks can be monitored. If unavoidable, use a reputable free VPN like Proton VPN to encrypt your connection.
 
